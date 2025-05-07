@@ -22,6 +22,8 @@
 - [Hobby](https://github.com/MeiChieh#hobby)
   
 [Deep Learning](https://github.com/MeiChieh#-deep-learning)
+- [NLP](https://github.com/MeiChieh#natural-language-processing)
+- [Computer Vision](https://github.com/MeiChieh#computer-vision)
 
 [Generative AI](https://github.com/MeiChieh#-generative-ai)
 
@@ -32,35 +34,41 @@ Projects involving data analysis, statistical modeling, and business insights.
 #### Finance
 
 - [**Lending Club Loan Grade Analysis and Modeling**](https://github.com/MeiChieh/lending-club-loan-grade-prediction)  
-  `Python` `Pandas` `Scikit-learn` `XGBoost` `Optuna` `Error Analysis`
+  `Python` `Pandas` `Scikit-learn` `XGBoost` `Optuna` `Error Analysis` `Shap`
+  
   - Financial data exploration and analysis
-  - Handle imbalanced dataset with SMOTE and XGBoost
-- [**Home Credit Group Loan Default Risk Analysis and Modeling**](https://github.com/MeiChieh/home-credit-default-risk-prediction)  
-  `Python` `NumPy` `LGBM` `Optuna` `Risk Analysis`
-  - Modern portfolio theory implementation
-  - Risk-return optimization
+  - Handle imbalanced dataset with SMOTE and BalancedRandomForest
+- [**Home Credit Group Loan Default Risk Analysis and Modeling**](https://github.com/MeiChieh/home-credit-group-loan-default-prediction)  
+  `Python` `NumPy` `LGBM` `Optuna` `Imblearn` `Error Analysis` `Shap`
+  
+  - Multi-table data aggregation and time series feature engineering
+  - Combine boosting and logit model with soft voting to get robust result
+  - Financial analysis to priopritize metrics and select the most optimal model
 
 #### Health
 
 - [**Stroke Dataset Analysis and Prediction**](https://github.com/MeiChieh/stroke-prediction)  
-  `Python` `XGBoost` `Feature Engineering` `Healthcare Analytics`
-  - Predictive modeling for patient readmission
-  - Clinical data preprocessing
+  `Python` `Scikit-learn` `Data Visualization`
+  
+  - Feature engineering combining provided feature and external health organization domain knowledge
+  - Model selection with imbalanced data suitable metrics and learning curve
 - [**Mental Health in the Tech Industry Analysis**](https://github.com/MeiChieh/mental-health-in-tech)  
-  `Python` `Plotly` `Dash` `Data Visualization`
-  - Interactive pandemic data visualization
-  - Real-time data updates
+  `Python` `Pandas` `SQL` `Data Visualization`
+  
+  - Analyze health data and discover insights through feature aggregation 
+  - Use SQL for data wrangling and seaborn for visualization
 
 #### Hobby
 
-- [**European Soccer Matches Analysis and Prediction**](https://github.com/MeiChieh/european-soccer-matches-prediction)  
-  `Python` `Data Analysis` `Pandas` `DuckDB` `Scikit-learn`
-
-  - Team home advantage analysis
-  - Feature engineering for game result prediction
+- [**European Soccer Matches Time Series Analysis and Prediction**](https://github.com/MeiChieh/european-soccer-matches-prediction)  
+  `Python` `Pandas` `DuckDB` `Data Analysis` `Scikit-learn`
+  
+  - Use feature engineering to generate predictive features and verify with hypothesis testing
+  - Construct predictive classifier with logistic regression
 
 - [**Podcast Rating Analysis**](https://github.com/MeiChieh/podcast-rating-analysis)  
   `Python` `Data Analysis` `Pandas` `SQL` `DuckDB` `Scikit-learn`
+  
   - Analyzes 2 million review ratings across 100,000 podcasts
   - Identify temporal patterns and distinguish user behaviours across categories
 
@@ -71,14 +79,16 @@ Advanced machine learning projects using neural networks.
 #### Natural Language Processing
 
 - [**Fake News Classifier**](https://github.com/MeiChieh/fake-news-detection)  
-  `Python` `BERT` `Longformer` `Transformers` `PyTorch`
-  - Multi-class sentiment classification
-  - Fine-tuned transformer models
+  `Python` `PyTorch` `NLTK` `Word2Vec` `BERT` `Longformer` `LIME`
+  - Extensive text data cleaning with regex
+  - Create heuristic features with sentiment analysis and TF-IDF vectorizer.
+  - Fine-tune and compare classification result of transformer models with different maximum token length and cases.
+  - Compare result of transformer models and ML models using heuristic features.
 
 #### Computer Vision
 
 - [**Age and Gender Classifier with Face Image**](https://github.com/MeiChieh/face-image-age-and-gender-prediction)  
-  `Python` `Resnet` `Squeezenet` `OpenCV`
+  `Python` `Resnet` `Squeezenet` `OpenCV` `PyTorch`
   - Real-time object detection
   - Custom dataset training
 
