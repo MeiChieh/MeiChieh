@@ -22,7 +22,7 @@ Projects involving data analysis, statistical modeling, and business insights.
 
 #### Finance
 
-- [**Lending Club Loan Grade Analysis and Modeling**](sth)  
+- [**Lending Club Loan Grade Analysis and Modeling**](https://github.com/MeiChieh/lending-club-loan-grade-prediction)  
   `Python` `Pandas` `Scikit-learn` `XGBoost` `Optuna` `Error Analysis`
   - Financial data exploration and analysis
   - Handle imbalanced dataset with SMOTE and XGBoost
@@ -33,11 +33,11 @@ Projects involving data analysis, statistical modeling, and business insights.
 
 #### Health
 
-- [**Stroke Dataset Analysis and Prediction**](sth)  
+- [**Stroke Dataset Analysis and Prediction**](https://github.com/MeiChieh/stroke-prediction)  
   `Python` `XGBoost` `Feature Engineering` `Healthcare Analytics`
   - Predictive modeling for patient readmission
   - Clinical data preprocessing
-- [**Mental Health in the Tech Industry Analysis**](sth)  
+- [**Mental Health in the Tech Industry Analysis**](https://github.com/MeiChieh/mental-health-in-tech)  
   `Python` `Plotly` `Dash` `Data Visualization`
   - Interactive pandemic data visualization
   - Real-time data updates
@@ -61,14 +61,14 @@ Advanced machine learning projects using neural networks.
 
 #### Natural Language Processing
 
-- [**Fake News Classifier**](sth)  
+- [**Fake News Classifier**](https://github.com/MeiChieh/fake-news-detection)  
   `Python` `BERT` `Longformer` `Transformers` `PyTorch`
   - Multi-class sentiment classification
   - Fine-tuned transformer models
 
 #### Computer Vision
 
-- [**Age and Gender Classifier with Face Image**](sth)  
+- [**Age and Gender Classifier with Face Image**](https://github.com/MeiChieh/face-image-age-and-gender-prediction)  
   `Python` `Resnet` `Squeezenet` `OpenCV`
   - Real-time object detection
   - Custom dataset training
