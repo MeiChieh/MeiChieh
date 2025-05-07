@@ -16,6 +16,15 @@
 
 ## 📚 Categories
 
+[Data Science](https://github.com/MeiChieh#-data-science)
+- [Finance](https://github.com/MeiChieh#finance)
+- [Health](https://github.com/MeiChieh#health)
+- [Hobby](https://github.com/MeiChieh#hobby)
+  
+[Deep Learning](https://github.com/MeiChieh#-deep-learning)
+
+[Generative AI](https://github.com/MeiChieh#-generative-ai)
+
 ### 🔬 Data Science
 
 Projects involving data analysis, statistical modeling, and business insights.
