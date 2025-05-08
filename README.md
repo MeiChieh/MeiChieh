@@ -92,17 +92,6 @@ Advanced machine learning projects using neural networks.
   - Real-time object detection
   - Custom dataset training
 
-### 🤖 Generative AI
-
-- [**Interview Practice Bot**](sth)  
-  `Python` `GPT` `LangChain` `Prompt Engineering`
-  - Custom content generation pipeline
-  - Fine-tuned language models
-- [**Turing College Learner Chatbot**](sth)  
-  `Python` `Streamlit` `FastAPI` `Langchain`
-  - Neural style transfer implementation
-  - Custom style mixing
-
 ## 🛠️ Core Competencies
 
 ### Technical Skills
