@@ -26,7 +26,7 @@
 - [Computer Vision](https://github.com/MeiChieh#computer-vision)
 
 [Generative AI](https://github.com/MeiChieh#-generative-ai)
-- [RAG chatbot](https://github.com/MeiChieh#rag-chatbot)
+- [RAG chatbot](https://github.com/MeiChieh#-generative-ai)
 
 ### 🔬 Data Science
 
