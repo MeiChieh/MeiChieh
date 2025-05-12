@@ -26,6 +26,7 @@
 - [Computer Vision](https://github.com/MeiChieh#computer-vision)
 
 [Generative AI](https://github.com/MeiChieh#-generative-ai)
+- [RAG chatbot](https://github.com/MeiChieh#rag-chatbot)
 
 ### 🔬 Data Science
 
@@ -91,6 +92,13 @@ Advanced machine learning projects using neural networks.
   `Python` `Resnet` `Squeezenet` `OpenCV` `PyTorch`
   - Real-time object detection
   - Custom dataset training
+
+### 🤖 Generative AI
+
+- [**Turing College Learner RAG Chatbot**](https://github.com/MeiChieh/turing-college-learner-questions-rag-chatbot)  
+  `Python` `Streamlit` `FastAPI` `BeautifulSoup` `vectorDB` `Langchain` 
+  - Scrape webpage, truncate and save in vectorDB, use dense (cosine similarity) + sparse (BM25) for RAG retrieval
+  - Use langchain and streamlit to construct a RAG chatbot that answers learner's questions about the learning platform
 
 ## 🛠️ Core Competencies
 
