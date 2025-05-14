@@ -34,17 +34,19 @@ Projects involving data analysis, statistical modeling, and business insights.
 
 #### Finance
 
-- [**Lending Club Loan Grade Analysis and Modeling**](https://github.com/MeiChieh/lending-club-loan-grade-prediction)  
-  `Python` `Pandas` `Scikit-learn` `XGBoost` `Optuna` `Error Analysis` `Shap`
-  
-  - Financial data exploration and analysis
-  - Handle imbalanced dataset with SMOTE and BalancedRandomForest
 - [**Home Credit Group Loan Default Risk Analysis and Modeling**](https://github.com/MeiChieh/home-credit-group-loan-default-prediction)  
   `Python` `NumPy` `LGBM` `Optuna` `Imblearn` `Error Analysis` `Shap`
   
   - Multi-table data aggregation and time series feature engineering
   - Combine boosting and logit model with soft voting to get robust result
   - Financial analysis to priopritize metrics and select the most optimal model
+
+- [**Lending Club Loan Grade Analysis and Modeling**](https://github.com/MeiChieh/lending-club-loan-grade-prediction)  
+  `Python` `Pandas` `Scikit-learn` `XGBoost` `Optuna` `Error Analysis` `Shap`
+  
+  - Financial data exploration and analysis
+  - Handle imbalanced dataset with SMOTE and BalancedRandomForest
+
 
 #### Health
 
