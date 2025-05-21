@@ -2,19 +2,18 @@
 
 ### 👋 Hello, I’m Mei, nice to meet you !
 
-🙋‍♀️ I'm a data scientist with a background in __biology__ and a passion for solving complex problems with data. My path started in academic research, where I developed a human gene interaction database using BioPython to help researchers access critical information. This experience led me to __frontend development__ at Jimdo's Growth Team, where I built __data-driven A/B testing tools__ that increased conversion rates by 25% and discovered my love for extracting actionable insights from data. Now as a __full-fledged data scientist__, I uncover patterns, develop predictive models, and transform raw information into impactful solutions that drive decision-making.
-
-__🧪 How I Think__
-I thrive where data meets decisions. I approach problems methodically - from framing the right questions and preparing clean datasets to implementing appropriate models and measuring real-world impact. Whether it's engineering predictive features for credit risk assessment or building NLP pipelines for text classification, I focus on creating solutions that deliver tangible value and drive evidence-based decision making.
+__🙋‍♀️ About Me__
+I’m a data scientist with roots in biology and a love for problem-solving. I started out building tools for gene research, then shifted into tech—creating A/B testing tools at Jimdo. Now I use data to spot patterns, build models, and help teams make smarter decisions.
 
 __🔎 Current Focus__
 I’m diving deeper into applied __machine learning__, __deep learning__ and __model evaluation__. I’ve been building multi-label classifiers, experimenting with imbalance techniques, and fine-tuning large language models. I love pushing my limits and making things that are both smart and useful.
 
 __🌱 Still Growing__
-I'm constantly learning—whether it's exploring __AI agent__ architectures, fine-tuning large language models with __LoRA__, or learning __MLOps__ for seamless deployment. I'm also working on my __Dutch__ (currently approaching A2 fluency) while living in Belgium. I believe in learning in public and sharing knowledge, which is why I enjoy mentoring data science learners and leading interactive classroom sessions in my learning program.
+I'm constantly learning—whether it's exploring __AI agent__ architectures, fine-tuning large language models with __LoRA__, or learning __MLOps__ for seamless deployment. I'm also working on my __Dutch__ (currently approaching A2 fluency) while living in Belgium. 
 
 __🤝 Let’s Connect__
 If you’re into turning raw data into business insights, building predictive model for forecasting, or interesting AI product ideas, let's connect and have a chat !
+
 
 
 ## 🏷️ Skills Overview
