@@ -1,18 +1,15 @@
 # Project Portfolio
 
-### 👋 Hello, I’m Mei, nice to meet you !
+### 👋 Hello, nice to meet you !
 
 __🙋‍♀️ About Me__
-I’m a data scientist with roots in biology and a love for problem-solving. I started out building tools for gene research, then shifted into tech—creating A/B testing tools at Jimdo. Now I use data to spot patterns, build models, and help teams make smarter decisions.
+I’m a data scientist with roots in biology and a love for problem-solving. I started out building tools for gene research, then shifted into tech. Now I use data to spot patterns, build models, establish systems, and help teams make smarter decisions.
 
 __🔎 Current Focus__
-I’m diving deeper into applied __machine learning__, __deep learning__ and __model evaluation__. I’ve been building multi-label classifiers, experimenting with imbalance techniques, and fine-tuning large language models. I love pushing my limits and making things that are both smart and useful.
-
-__🌱 Still Growing__
-I'm constantly learning—whether it's exploring __AI agent__ architectures, fine-tuning large language models with __LoRA__, or learning __MLOps__ for seamless deployment. I'm also working on my __Dutch__ (currently approaching A2 fluency) while living in Belgium. 
+I’m diving deeper into applied __machine learning__, __deep learning__ and __AI Engineering__.
 
 __🤝 Let’s Connect__
-If you’re into turning raw data into business insights, building predictive model for forecasting, or interesting AI product ideas, let's connect and have a chat !
+If you’re into turning raw data into business insights, using qualitative and quantitative to establish robust systems, let's connect and have a chat !
 
 
 
