@@ -1,17 +1,5 @@
 # Project Portfolio
 
-### 👋 Hello, nice to meet you !
-
-__🙋‍♀️ About Me__
-I’m a data scientist with roots in biology and a love for problem-solving. I started out building tools for gene research, then shifted into tech. Now I use data to spot patterns, build models, establish systems, and help teams make smarter decisions.
-
-__🔎 Current Focus__
-I’m diving deeper into applied __machine learning__, __deep learning__ and __AI Engineering__.
-
-__🤝 Let’s Connect__
-If you’re into turning raw data into business insights, using qualitative and quantitative to establish robust systems, let's connect and have a chat !
-
-
 
 ## 🏷️ Skills Overview
 
